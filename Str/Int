@@ -1,0 +1,3 @@
+weight_lb = input('What is your weight(lb)? ')
+weight_kg = 0.453592 * int(weight_lb)
+print(('Weight in Kg: ') + str(weight_kg))
